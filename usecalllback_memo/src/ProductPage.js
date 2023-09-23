@@ -1,5 +1,4 @@
 import ShippingForm from './ShippingForm.js';
-import style
 
 export default function ProductPage({ productId, referrer, theme }) {
   function handleSubmit(orderDetails) {
